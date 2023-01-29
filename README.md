@@ -1,6 +1,6 @@
-# Contemporary Issues In Data
+# Cambridge Analytica's Use of Facebook Users' Data to Influence the 2016 Presidential Election
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+In this document, I discuss two articles about Cambridge Analytica's mining of Facebook data and the claims made by some that it altered the course of the 2016 US Presidential Election.  I present and discuss two opposing views on this controversial matter.
 
 ## Article 1
 In NPR's [What Did Cambridge Analytica Do During The 2016 Election?](https://www.npr.org/2018/03/20/595338116/what-did-cambridge-analytica-do-during-the-2016-election), the author argues that Cambridge Analytica helps political elections by accessing the personal information of 50 million users of facebook, and he points out that by analyzing this big data, the psychological information of detailed American voters is obtained to help the elected change their election strategies to gain wider voter support.
